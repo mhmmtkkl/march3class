@@ -11,7 +11,7 @@ public class HashSetEx {
 		//does not keep ordering
 		Set<Integer> uniqueNums = new HashSet<>();
 		uniqueNums.add(123);
-		uniqueNums.add(234);
+		uniqueNums.add(2234);
 		uniqueNums.add(654);
 		uniqueNums.add(654);
 		

@@ -10,7 +10,7 @@ public static void main(String[] args) {
 		Map <String,Double> CarPrice= new HashMap <> ();
 		
 		CarPrice.put("BMW", 4000.00);
-		CarPrice.put("Toyota", 3000.00);
+		CarPrice.put("Toyyota", 3000.00);
 		CarPrice.put("Mercedes", 6000.00);
 		
 		System.out.println(CarPrice);

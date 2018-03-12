@@ -13,7 +13,7 @@ public class SortedEmployees {
 		//firstone is larger -> 1
 		//firstone is smaller -> negative
 		
-		Employee emp1 = new Employee(33, "Bob");
+		Employee emp1 = new Employee(33, "BBob");
 		Employee emp2 = new Employee(3, "Mario");
 		Employee emp3 = new Employee(43, "Bob");
 		Employee emp4 = new Employee(1, "Maria");

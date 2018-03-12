@@ -11,7 +11,7 @@ public class QueueExample {
 		//FIRST IN FIRST OUT
 		Queue<String> q = new LinkedList<>();//new PriorityQueue<>();
 		q.add("Delta");
-		q.add("American");
+		q.add("Aamerican");
 		q.add("Qatar");
 		q.add("Turkish");
 		

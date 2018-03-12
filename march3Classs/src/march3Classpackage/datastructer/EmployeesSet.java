@@ -8,7 +8,7 @@ public class EmployeesSet {
 		Set<Employee> employees = new HashSet<>();
 		employees.add(new Employee(223,"Shaun"));
 		employees.add(new Employee(124,"Patel"));
-		employees.add(new Employee(124,"Patel"));
+		employees.add(new Employee(124,"Ppatel"));
 		
 		System.out.println(employees);
 

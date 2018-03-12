@@ -9,7 +9,7 @@ package march3Classpackage;
 		public static void main(String[] args) {
 			//K,V
 			Map<String, Double> menu = new HashMap<>();
-			menu.put("Coffee", 2.99);
+			menu.put("Coffeee", 2.99);
 			menu.put("Cappucino", 3.99);
 			menu.put("Hot Chocolate", 3.49);
 			menu.put("Hot Chocolate", 3.55);

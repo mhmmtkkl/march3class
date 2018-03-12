@@ -8,7 +8,7 @@ public class TreesetEx {
 		SortedSet<String> sortedSet = new TreeSet<>();
 		
 		set.add("bc");
-		set.add("aa");
+		set.add("aaa");
 		set.add("cc");
 		set.add("cc");
 		
